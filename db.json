@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "sort": 1,
+      "label": "Egy MV ",
+      "group": "review",
+      "id": 1,
+      "time": 1642747290476
+    },
+    {
+      "label": "Shin Tae Yong",
+      "group": "review",
+      "sort": 2,
+      "id": 2
+    },
+    {
+      "label": "Asnawi Mangku Alam",
+      "group": "draft",
+      "sort": 3,
+      "id": 3
+    },
+    {
+      "label": "Dewangga",
+      "group": "draft",
+      "sort": 4,
+      "id": 4
+    },
+    {
+      "label": "Ricky Kambuaya",
+      "group": "draft",
+      "sort": 5,
+      "id": 5
+    },
+    {
+      "label": "Dedik Setiawan",
+      "group": "baru",
+      "sort": 6,
+      "id": 6
+    },
+    {
+      "label": "Witan Sulaiman",
+      "group": "done",
+      "sort": 7,
+      "id": 7
+    },
+    {
+      "label": "Pratama Arhan",
+      "group": "done",
+      "sort": 8,
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "groups": [
+    {
+      "name": "draft",
+      "id": 1,
+      "sort": 2
+    },
+    {
+      "name": "done",
+      "id": 2,
+      "sort": 4
+    },
+    {
+      "name": "review",
+      "id": 3,
+      "sort": 1
+    },
+    {
+      "name": "baru",
+      "sort": 3,
+      "id": 4
+    }
+  ]
+}
